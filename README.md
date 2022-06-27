@@ -14,7 +14,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" alt="Nodejs" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" alt="Javascript" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png" alt="Firebase" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/linux-3521549-2944967.png" alt="Linux" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/linux-9-202419.png" alt="Linux" width="200"></td>
    
   </tr>
   <tr>
