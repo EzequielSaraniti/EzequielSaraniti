@@ -21,6 +21,10 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" alt="Bootstrap" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/sass-2752078-2284895.png" alt="Sass" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" alt="Git" width="50"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50"></td>
+    
+    
+    
   </tr>
 </table>
 
