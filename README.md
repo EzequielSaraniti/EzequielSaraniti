@@ -16,10 +16,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" alt="Javascript" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png" alt="Firebase" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/linux-9-202419.png" alt="Linux" width="50"></td>
-   
-  </tr>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" alt="Html" width="50"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" alt="Html" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" alt="Css" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" alt="Bootstrap" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/sass-2752078-2284895.png" alt="Sass" width="50"></td>
