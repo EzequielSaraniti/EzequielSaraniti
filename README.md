@@ -1,7 +1,6 @@
 <h1 align="center">Hi !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm Ezequiel Saraniti</h1>
 <h3 align="center">Front End developer from Argentina</h3>
 
-<img src="https://komarev.com/ghpvc/?username=EzequielSaraniti&color=green" alt="cantidad-de-visualizaciones" /> 
 
 
 <p align="center">
@@ -27,3 +26,5 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" alt="Git" width="200"></td>
   </tr>
 </table>
+
+<img src="https://komarev.com/ghpvc/?username=EzequielSaraniti&color=green" alt="cantidad-de-visualizaciones" /> 
